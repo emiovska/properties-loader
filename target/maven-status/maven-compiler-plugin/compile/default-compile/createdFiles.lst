@@ -1,5 +1,8 @@
+demo\TestProperties.class
+demo\DemoService.class
 emiovska\properties\loader\processing\PropertiesFileLoader.class
 emiovska\properties\loader\processing\PropertiesProcessor.class
+demo\Test2Properties.class
 emiovska\properties\loader\annotations\PropertyValue.class
 emiovska\properties\loader\processing\PropertiesManager.class
 emiovska\properties\loader\reflection\ReflectionUtil.class

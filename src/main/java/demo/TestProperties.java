@@ -1,3 +1,5 @@
+package demo;
+
 import emiovska.properties.loader.annotations.PropertiesResource;
 import emiovska.properties.loader.annotations.PropertyValue;
 

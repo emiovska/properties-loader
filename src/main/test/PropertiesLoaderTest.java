@@ -1,4 +1,6 @@
 
+import demo.Test2Properties;
+import demo.TestProperties;
 import emiovska.properties.loader.processing.PropertiesManager;
 import org.junit.Assert;
 import org.junit.Test;
