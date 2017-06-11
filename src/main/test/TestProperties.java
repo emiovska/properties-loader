@@ -1,5 +1,5 @@
-import annotations.PropertiesResource;
-import annotations.PropertyValue;
+import emiovska.properties.loader.annotations.PropertiesResource;
+import emiovska.properties.loader.annotations.PropertyValue;
 
 /**
  * Created by elena.miovska on 11.6.2017 г..
@@ -7,18 +7,17 @@ import annotations.PropertyValue;
 @PropertiesResource("test.properties")
 public class TestProperties {
 
-    @PropertyValue("service.host")
-    private String host;
+    @PropertyValue("test.property.1")
+    private String testProperty1;
 
-    @PropertyValue("service.port")
-    private String port;
+    @PropertyValue("test.property.2")
+    private String testProperty2;
 
-    public String getPort() {
-        return port;
+    public String getTestProperty1() {
+        return testProperty1;
     }
 
-    public String getHost() {
-
-        return host;
+    public String getTestProperty2() {
+        return testProperty2;
     }
 }

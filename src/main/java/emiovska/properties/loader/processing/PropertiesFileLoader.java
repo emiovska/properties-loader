@@ -1,4 +1,4 @@
-package processing;
+package emiovska.properties.loader.processing;
 
 import java.io.BufferedReader;
 import java.io.File;

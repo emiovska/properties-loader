@@ -1,4 +1,4 @@
-package reflection;
+package emiovska.properties.loader.reflection;
 
 import org.reflections.Reflections;
 

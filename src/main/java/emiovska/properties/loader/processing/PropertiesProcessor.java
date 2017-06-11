@@ -1,8 +1,8 @@
-package processing;
+package emiovska.properties.loader.processing;
 
-import annotations.PropertiesResource;
-import annotations.PropertyValue;
-import reflection.ReflectionUtil;
+import emiovska.properties.loader.annotations.PropertiesResource;
+import emiovska.properties.loader.annotations.PropertyValue;
+import emiovska.properties.loader.reflection.ReflectionUtil;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package processing;
+package emiovska.properties.loader.processing;
 
 /**
  * Created by elena.miovska on 11.6.2017 г..

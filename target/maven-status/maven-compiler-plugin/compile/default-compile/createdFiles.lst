@@ -1,6 +1,6 @@
-reflection\ReflectionUtil.class
-processing\PropertiesManager.class
-annotations\PropertiesResource.class
-processing\PropertiesProcessor.class
-processing\PropertiesFileLoader.class
-annotations\PropertyValue.class
+emiovska\properties\loader\processing\PropertiesFileLoader.class
+emiovska\properties\loader\processing\PropertiesProcessor.class
+emiovska\properties\loader\annotations\PropertyValue.class
+emiovska\properties\loader\processing\PropertiesManager.class
+emiovska\properties\loader\reflection\ReflectionUtil.class
+emiovska\properties\loader\annotations\PropertiesResource.class

@@ -1,6 +1,6 @@
-C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\annotations\PropertyValue.java
-C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\processing\PropertiesManager.java
-C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\reflection\ReflectionUtil.java
-C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\annotations\PropertiesResource.java
-C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\processing\PropertiesProcessor.java
-C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\processing\PropertiesFileLoader.java
+C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\emiovska\properties\loader\processing\PropertiesManager.java
+C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\emiovska\properties\loader\annotations\PropertyValue.java
+C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\emiovska\properties\loader\annotations\PropertiesResource.java
+C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\emiovska\properties\loader\processing\PropertiesFileLoader.java
+C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\emiovska\properties\loader\processing\PropertiesProcessor.java
+C:\Users\elena.miovska\Documents\Elena's\properties-loader\src\main\java\emiovska\properties\loader\reflection\ReflectionUtil.java
