@@ -20,3 +20,5 @@ In the dependencies tag add the following dependency:
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
+How to start using the library see the [demo directory](https://github.com/emiovska/properties-loader/tree/master/src/main/java/demo). 
+The properties files are located in the project resource directory.
