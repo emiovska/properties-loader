@@ -27,7 +27,7 @@ public class PropertiesProcessor {
             PropertiesFileLoader.loadPropertiesFromFile(propertiesResource.value(), propertiesByKey);
             //create properties holders instances
             Object classInstance = ReflectionUtil.createInstancesByClass(propertiesResourceClass);
-            classInstances.put(propertiesResourceClass,classInstance);
+            classInstances.put(propertiesResourceClass, classInstance);
             //populate fields with value
             populatePropertiesValues(propertiesResourceClass, classInstance);
         }
