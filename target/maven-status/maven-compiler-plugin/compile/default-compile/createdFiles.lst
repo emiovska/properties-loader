@@ -1,0 +1,6 @@
+reflection\ReflectionUtil.class
+processing\PropertiesManager.class
+annotations\PropertiesResource.class
+processing\PropertiesProcessor.class
+processing\PropertiesFileLoader.class
+annotations\PropertyValue.class
