@@ -5,7 +5,7 @@ To start using the library add this to the pom.xml file
 ```maven
 <repositories>
     <repository>
-        <id>GiiHub repository</id>
+        <id>GitHub repository</id>
         <url>https://github.com/emiovska/properties-loader</url>
     </repository>
 </repositories>
