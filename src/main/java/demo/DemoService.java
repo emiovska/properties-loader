@@ -7,7 +7,6 @@ import emiovska.properties.loader.processing.PropertiesManager;
  */
 public class DemoService {
 
-
     public TestProperties testProperties = PropertiesManager.getProperties(TestProperties.class);
     public Test2Properties test2Properties = PropertiesManager.getProperties(Test2Properties.class);
 
